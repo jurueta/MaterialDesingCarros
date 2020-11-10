@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ventaCarro</string>
+    <string name="txt_opc_1">"CAR REGISTRER "</string>
+    <string name="txt_opc_2">LIST CARS</string>
+    <string name="txt_opc_3">REPORTS</string>
+    <string name="txt_lbl_placa">LICENSE</string>
+    <string name="txt_lbl_marca">BRAND</string>
+    <string name="txt_lbl_modelo">MODEL</string>
+    <string name="txt_lbl_color">COLOR</string>
+    <string name="txt_lbl_precio">PRICE</string>
+    <string name="txt_lbl_borrar">CLEAN</string>
+    <string name="txt_opc_marca_1">KIA</string>
+    <string name="txt_lbl_guardar">SAVE</string>
+    <string name="txt_opc_marca_2">CHEVROLET</string>
+    <string name="txt_opc_marca_3">MAZDA</string>
+    <string name="txt_opc_marca_4">RENAULT</string>
+    <string name="txt_opc_color_1">YELLOW</string>
+    <string name="txt_opc_color_2">WHITE</string>
+    <string name="txt_opc_color_3">BLACK</string>
+    <string name="txt_opc_color_4">RED</string>
+    <string name="txt_msj_error">THIS DATA IS MISSING</string>
+    <string name="msj_guardado">CAR SUCCESFULLY STORED</string>
+    <string name="txt_lbl_detalle">Cars Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

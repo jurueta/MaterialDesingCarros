@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ventaCarro</string>
+    <string name="txt_opc_1">REGISTRO CARROS</string>
+    <string name="txt_opc_2">LISTAR CARROS</string>
+    <string name="txt_opc_3">REPORTES</string>
+    <string name="txt_lbl_placa">PLACA</string>
+    <string name="txt_lbl_marca">MARCA</string>
+    <string name="txt_lbl_modelo">MODELO</string>
+    <string name="txt_lbl_color">COLOR</string>
+    <string name="txt_lbl_precio">PRECIO</string>
+    <string name="txt_lbl_borrar">BORRAR</string>
+    <string name="txt_lbl_guardar">GUARDAR</string>
+    <string name="txt_opc_marca_1">KIA</string>
+    <string name="txt_opc_marca_2">CHEVROLET</string>
+    <string name="txt_opc_marca_3">MAZDA</string>
+    <string name="txt_opc_marca_4">RENAULT</string>
+    <string name="txt_opc_color_1">AMARILLO</string>
+    <string name="txt_opc_color_2">BLANCO</string>
+    <string name="txt_opc_color_3">NEGRO</string>
+    <string name="txt_opc_color_4">ROJO</string>
+    <string name="txt_lbl_detalle">Detalle Carro</string>
+    <string name="txt_msj_error">FALTA ESTE DATO</string>
+    <string name="msj_guardado">CARRO ALMACENADO EXITOSAMENTE</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string-array name="opcionesPrincipales">
+        <item>@string/txt_opc_1</item>
+        <item>@string/txt_opc_2</item>
+        <item>@string/txt_opc_3</item>
+    </string-array>
+    <string-array name="opcionesmarca">
+        <item></item>
+        <item>@string/txt_opc_marca_1</item>
+        <item>@string/txt_opc_marca_2</item>
+        <item>@string/txt_opc_marca_3</item>
+        <item>@string/txt_opc_marca_4</item>
+    </string-array>
+    <string-array name="opciones_color">
+        <item></item>
+        <item>@string/txt_opc_color_1</item>
+        <item>@string/txt_opc_color_2</item>
+        <item>@string/txt_opc_color_3</item>
+        <item>@string/txt_opc_color_4</item>
+    </string-array>
+</resources>
